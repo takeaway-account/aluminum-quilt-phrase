@@ -1,5 +1,7 @@
 # Take Home Exercise 
 
+A bug I found with the Github API: sometimes email doesn't show up on the API when it does in the profile. An arbitrary example user: https://api.github.com/users/timtebeek 
+
 ## Design and Decisions 
 
 ### Cache 
